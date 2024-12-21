@@ -6,7 +6,7 @@
 
 👯 I’m looking to collaborate on **innovative projects**
 
-📫 How to reach me **sakthilakshmims@gmail.com**
+📫 Reach me at **sakthilakshmims@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
