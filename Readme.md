@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sakthilakshmi M</h1>
 <h3 align="center">Aspiring Full Stack Developer and Competitive Programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakthilakshmi-m&label=Profile%20views&color=0e75b6&style=flat" alt="sakthilakshmi-m" /> </p>
-
 - 🔭 I’m currently working on **MERN stack and Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **innovative projects**
