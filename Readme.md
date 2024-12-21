@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakthilakshmi-m&label=Profile%20views&color=0e75b6&style=flat" alt="sakthilakshmi-m" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakthilakshmi-m" alt="sakthilakshmi-m" /></a> </p>
-
 - 🔭 I’m currently working on **MERN stack and Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **innovative projects**
