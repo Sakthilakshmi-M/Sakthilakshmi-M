@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sakthilakshmi M</h1>
 <h3 align="center">Aspiring Full Stack Developer and Competitive Programmer</h3>
 
-- 🔭 I’m currently working on **MERN stack and Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on **innovative projects**
+🔭 I’m currently working on **MERN stack and Data Structures and Algorithms**
 
-- 📫 How to reach me **sakthilakshmims@gmail.com**
+👯 I’m looking to collaborate on **innovative projects**
+
+📫 How to reach me **sakthilakshmims@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
