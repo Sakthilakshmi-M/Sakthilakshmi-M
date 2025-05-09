@@ -23,10 +23,11 @@ I’m here to **build things that matter**, grow beyond comfort zones, and have 
 Let’s connect!
 
 <!-- Social Links -->
+
+<h3 style="font-size: 1.5em; margin-bottom: 4px;">🔗 Let's Connect!</h3>
   <a href="https://www.linkedin.com/in/sakthilakshmi-m-920a56235/" target="_blank" >
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40" width="40">
   </a>
-<h3 style="font-size: 1.5em; margin-bottom: 4px;">🔗 Let's Connect!</h3>
   <a href="mailto:dev.sakthilakshmims@gmail.com" target="_blank" >
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="40" width="40">
 </div>
