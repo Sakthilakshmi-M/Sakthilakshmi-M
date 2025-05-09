@@ -13,7 +13,7 @@ Whether it's building full-stack applications, cracking DSA puzzles, or crafting
 
 #### 💫 A few bytes about me:
 - 🔍 Forever curious, forever coding
-- 💬 Fluent in Java, React, Spring Boot, and sarcasm
+- 💬 Fluent in Java, React, Spring Boot.
 - 💡 Obsessed with turning ideas into real-world apps
 
 I’m not just here to write code.  
