@@ -19,7 +19,7 @@ Whether it's building full-stack applications, cracking DSA puzzles, or crafting
 I’m not just here to write code.  
 I’m here to **build things that matter**, grow beyond comfort zones, and have fun while doing it!
 
-📫 Wanna talk tech, collab on something cool, or send memes?  
+📫 Wanna talk tech, collab on something cool?  
 Let’s connect!
 
 <!-- Social Links -->
