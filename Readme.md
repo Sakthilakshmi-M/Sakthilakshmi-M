@@ -26,10 +26,10 @@ Let’s connect!
 <h3 style="font-size: 1.5em; margin-bottom: 4px;">🔗 Let's Connect!</h3>
 <p style="margin-top: 0; margin-bottom: 8px; font-style: italic; color: #555;">Follow me on social platforms:</p>
 <div style="display: flex; gap: 16px; justify-content: center; margin-bottom: 16px;">
-  <a href="https://www.linkedin.com/in/sakthilakshmims/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sakthilakshmims@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://github.com/Sakthilakshmi-M" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.instagram.com/sakthilakshmim/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/sakthilakshmims/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 30px; width: 30px;" /></a>
+  <a href="mailto:sakthilakshmims@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D44638?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" style="height: 30px; width: 30px;" /></a>
+  <a href="https://github.com/Sakthilakshmi-M" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%2312100E?style=flat-square&logo=github&logoColor=white" alt="GitHub" style="height: 30px; width: 30px;" /></a>
+  <a href="https://www.instagram.com/sakthilakshmim/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" style="height: 30px; width: 30px;" /></a>
 </div>
 
 <!-- Programming Languages -->
