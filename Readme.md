@@ -23,19 +23,21 @@ I’m here to **build things that matter**, grow beyond comfort zones, and have 
 Let’s connect!
 
 
-🧠 Programming Languages
-My programming DNA
-
-<div style="display: flex; flex-wrap: wrap; gap: 4px;"> 
+<!-- Programming Languages -->
+<h3 style="font-size: 1.5em; margin-bottom: 4px;">🧠 Programming Languages</h3>
+<p style="margin-top: 0; margin-bottom: 8px; font-style: italic; color: #555;">My programming DNA</p>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 16px;"> 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> 
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> </div>
-✨ Frontend Alchemy
-Crafting intuitive, responsive interfaces
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
+</div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px;"> 
+<!-- Frontend -->
+<h3 style="font-size: 1.5em; margin-bottom: 4px;">✨ Frontend Alchemy</h3>
+<p style="margin-top: 0; margin-bottom: 8px; font-style: italic; color: #555;">Crafting intuitive, responsive interfaces</p>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 16px;"> 
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
@@ -44,22 +46,25 @@ Crafting intuitive, responsive interfaces
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
 </div>
-⚙️ Backend Mechanics
-Building robust server logic and APIs
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px;"> 
+<!-- Backend -->
+<h3 style="font-size: 1.5em; margin-bottom: 4px;">⚙️ Backend Mechanics</h3>
+<p style="margin-top: 0; margin-bottom: 8px; font-style: italic; color: #555;">Building robust server logic and APIs</p>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 16px;"> 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" style="margin-right: 2px;" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 </div>
-🗃️ Data Management
-Structuring, storing & querying data
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px;"> 
+<!-- Data -->
+<h3 style="font-size: 1.5em; margin-bottom: 4px;">🗃️ Data Management</h3>
+<p style="margin-top: 0; margin-bottom: 8px; font-style: italic; color: #555;">Structuring, storing & querying data</p>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 16px;"> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> 
 </div>
+
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sakthilakshmi?theme=dark&font=Hubballi)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sakthilakshmi-M&bg_color=1f1e1f&color=54e736&line=8ce65c&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
