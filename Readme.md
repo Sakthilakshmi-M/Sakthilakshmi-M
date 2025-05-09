@@ -85,6 +85,8 @@ Let’s connect!
   <img src="https://github-readme-stats.vercel.app/api?username=Sakthilakshmi-M&show_icons=true&theme=radical" />
 </p>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakthilakshmi-M&theme=vision-friendly-dark&include_all_commits=true&count_private=true&card_width=500&hide_border=true) 
+
 <h3 style="font-size: 1.5em; margin-top: 2em; text-align: center;">📈 My GitHub Contribution Graph</h3>
 <p style="text-align: center; font-style: italic; color: #555;">Contributing to the open-source world, one commit at a time!</p>
 <p align="center">
