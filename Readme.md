@@ -25,12 +25,10 @@ Let’s connect!
 <!-- Social Links -->
 
 <h3 style="font-size: 1.5em; margin-bottom: 4px;">🔗 Let's Connect!</h3>
-  <a href="https://www.linkedin.com/in/sakthilakshmi-m-920a56235/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" style="margin-right: 10px;">
-  </a>
-  <a href="mailto:dev.sakthilakshmims@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40">
-  </a>
+  <a href="https://www.linkedin.com/in/sakthilakshmims/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 30px; width: 30px;" /></a>
+  <a href="mailto:sakthilakshmims@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D44638?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" style="height: 30px; width: 30px;" /></a>
+  <a href="https://github.com/Sakthilakshmi-M" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%2312100E?style=flat-square&logo=github&logoColor=white" alt="GitHub" style="height: 30px; width: 30px;" /></a>
+  <a href="https://www.instagram.com/sakthilakshmim/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" style="height: 30px; width: 30px;" /></a>
 </div>
 
 
