@@ -26,12 +26,13 @@ Let’s connect!
 
 <h3 style="font-size: 1.5em; margin-bottom: 4px;">🔗 Let's Connect!</h3>
   <a href="https://www.linkedin.com/in/sakthilakshmi-m-920a56235/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40">
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" style="margin-right: 10px;">
   </a>
   <a href="mailto:dev.sakthilakshmims@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40">
+    <img align="center" src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40">
   </a>
 </div>
+
 
 <!-- Programming Languages -->
 <h3 style="font-size: 1.5em; margin-bottom: 4px;">🧠 Programming Languages</h3>
