@@ -4,7 +4,7 @@
 
 ### 🧠 About Me
 
-Hey there! I'm **Sakthilakshmi M** – a code-slinging, bug-chasing, idea-brewing developer currently living my tech dreams as a **Specialist Programmer at Infosys**. 🚀
+Hey there! I'm **Sakthilakshmi M** – a code-slinging, bug-chasing, idea-brewing developer. 🚀
 
 I'm driven by a *simple* formula:  
 **Curiosity + Code + Coffee = Innovation** ☕💻💡
